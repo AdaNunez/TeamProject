@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  Pick2ViewController.h
 //  TeamProject
 //
 //  Created by Orlando Gotera on 10/17/17.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UITabBarController
-
+@interface Pick2ViewController : UIViewController
+<UIPickerViewDelegate, UIPickerViewDataSource>
 
 @end
-

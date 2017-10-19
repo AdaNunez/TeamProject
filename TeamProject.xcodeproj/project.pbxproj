@@ -13,6 +13,13 @@
 		91A0AAE11F96FF7700F09B3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91A0AAE01F96FF7700F09B3D /* Assets.xcassets */; };
 		91A0AAE41F96FF7700F09B3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91A0AAE21F96FF7700F09B3D /* LaunchScreen.storyboard */; };
 		91A0AAE71F96FF7700F09B3D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAE61F96FF7700F09B3D /* main.m */; };
+		91A0AAEF1F96FFEE00F09B3D /* Pick2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAEE1F96FFEE00F09B3D /* Pick2ViewController.m */; };
+		91A0AAF21F97205D00F09B3D /* Pick3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAF11F97205D00F09B3D /* Pick3ViewController.m */; };
+		91A0AAF51F979D8D00F09B3D /* Pick4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAF41F979D8D00F09B3D /* Pick4ViewController.m */; };
+		91A0AAF81F97AC2E00F09B3D /* Pick5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAF71F97AC2E00F09B3D /* Pick5ViewController.m */; };
+		91A0AAFB1F97B81F00F09B3D /* Fantasy5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAFA1F97B81F00F09B3D /* Fantasy5ViewController.m */; };
+		91A0AAFE1F97BDDD00F09B3D /* LuckyMoneyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AAFD1F97BDDD00F09B3D /* LuckyMoneyViewController.m */; };
+		91A0AB011F97C80700F09B3D /* LottoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91A0AB001F97C80700F09B3D /* LottoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,20 @@
 		91A0AAE31F96FF7700F09B3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91A0AAE51F96FF7700F09B3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		91A0AAE61F96FF7700F09B3D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		91A0AAED1F96FFEE00F09B3D /* Pick2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pick2ViewController.h; sourceTree = "<group>"; };
+		91A0AAEE1F96FFEE00F09B3D /* Pick2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pick2ViewController.m; sourceTree = "<group>"; };
+		91A0AAF01F97205D00F09B3D /* Pick3ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pick3ViewController.h; sourceTree = "<group>"; };
+		91A0AAF11F97205D00F09B3D /* Pick3ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pick3ViewController.m; sourceTree = "<group>"; };
+		91A0AAF31F979D8D00F09B3D /* Pick4ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pick4ViewController.h; sourceTree = "<group>"; };
+		91A0AAF41F979D8D00F09B3D /* Pick4ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pick4ViewController.m; sourceTree = "<group>"; };
+		91A0AAF61F97AC2E00F09B3D /* Pick5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Pick5ViewController.h; sourceTree = "<group>"; };
+		91A0AAF71F97AC2E00F09B3D /* Pick5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pick5ViewController.m; sourceTree = "<group>"; };
+		91A0AAF91F97B81F00F09B3D /* Fantasy5ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fantasy5ViewController.h; sourceTree = "<group>"; };
+		91A0AAFA1F97B81F00F09B3D /* Fantasy5ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fantasy5ViewController.m; sourceTree = "<group>"; };
+		91A0AAFC1F97BDDD00F09B3D /* LuckyMoneyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LuckyMoneyViewController.h; sourceTree = "<group>"; };
+		91A0AAFD1F97BDDD00F09B3D /* LuckyMoneyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LuckyMoneyViewController.m; sourceTree = "<group>"; };
+		91A0AAFF1F97C80700F09B3D /* LottoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LottoViewController.h; sourceTree = "<group>"; };
+		91A0AB001F97C80700F09B3D /* LottoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LottoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +88,20 @@
 				91A0AAE21F96FF7700F09B3D /* LaunchScreen.storyboard */,
 				91A0AAE51F96FF7700F09B3D /* Info.plist */,
 				91A0AAE61F96FF7700F09B3D /* main.m */,
+				91A0AAED1F96FFEE00F09B3D /* Pick2ViewController.h */,
+				91A0AAEE1F96FFEE00F09B3D /* Pick2ViewController.m */,
+				91A0AAF01F97205D00F09B3D /* Pick3ViewController.h */,
+				91A0AAF11F97205D00F09B3D /* Pick3ViewController.m */,
+				91A0AAF31F979D8D00F09B3D /* Pick4ViewController.h */,
+				91A0AAF41F979D8D00F09B3D /* Pick4ViewController.m */,
+				91A0AAF61F97AC2E00F09B3D /* Pick5ViewController.h */,
+				91A0AAF71F97AC2E00F09B3D /* Pick5ViewController.m */,
+				91A0AAF91F97B81F00F09B3D /* Fantasy5ViewController.h */,
+				91A0AAFA1F97B81F00F09B3D /* Fantasy5ViewController.m */,
+				91A0AAFC1F97BDDD00F09B3D /* LuckyMoneyViewController.h */,
+				91A0AAFD1F97BDDD00F09B3D /* LuckyMoneyViewController.m */,
+				91A0AAFF1F97C80700F09B3D /* LottoViewController.h */,
+				91A0AB001F97C80700F09B3D /* LottoViewController.m */,
 			);
 			path = TeamProject;
 			sourceTree = "<group>";
@@ -142,9 +177,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91A0AAEF1F96FFEE00F09B3D /* Pick2ViewController.m in Sources */,
 				91A0AADC1F96FF7700F09B3D /* ViewController.m in Sources */,
+				91A0AAFE1F97BDDD00F09B3D /* LuckyMoneyViewController.m in Sources */,
+				91A0AAF51F979D8D00F09B3D /* Pick4ViewController.m in Sources */,
 				91A0AAE71F96FF7700F09B3D /* main.m in Sources */,
+				91A0AB011F97C80700F09B3D /* LottoViewController.m in Sources */,
+				91A0AAF81F97AC2E00F09B3D /* Pick5ViewController.m in Sources */,
+				91A0AAFB1F97B81F00F09B3D /* Fantasy5ViewController.m in Sources */,
 				91A0AAD91F96FF7700F09B3D /* AppDelegate.m in Sources */,
+				91A0AAF21F97205D00F09B3D /* Pick3ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +323,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 29UJD3GXC5;
 				INFOPLIST_FILE = TeamProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = COP2654.TeamProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -295,6 +338,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 29UJD3GXC5;
 				INFOPLIST_FILE = TeamProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = COP2654.TeamProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
